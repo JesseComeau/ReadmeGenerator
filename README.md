@@ -18,10 +18,14 @@ SO THAT I can quickly create a professional README for a new project
 5. [Tests](#Tests)
 6. [Questions](#Questions)
 ## Installation<a id="Installation"></a>
-From the terminal - NPM I then node index.js
+From the terminal, npm i. Once installed, node index.js.
 
 ## Usage<a id="Usage"></a>
-Generate consistent readme files.
+Generate consistent readme files quickly.
+
+![Preview](./readmeAssets/preview.gif)
+
+[video link](https://drive.google.com/file/d/1hFQIY1usLaDtGY5_0qWc_FUjc4mO3JqS/view)
 
 ## Contributing<a id="Contributing"></a>
 Please fork the repository.
