@@ -1,5 +1,4 @@
 function generateReadme(response) {
-    console.log(response)
 
     let template =
 `# **${response.projectName}**

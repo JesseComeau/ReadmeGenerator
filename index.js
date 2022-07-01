@@ -88,7 +88,6 @@ function init() {
 
         .then((response) => {
             const readmeData = generateReadme(response);
-            console.log(readmeData)
             writeToFile(readmeData)
         }
         );
